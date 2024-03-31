@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{69075319-F289-41DF-919F-257C187739AA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Todo PreferredExecutionTarget="Android.My_Tester_Pixel_2_API_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/MainPage.xaml">
+    <Files>
+      <File FileName="Todo/ViewModels/DetailViewModel.cs" Line="11" Column="15" />
+      <File FileName="Todo/DetailPage.xaml" Line="1" Column="1" />
+      <File FileName="Todo/AppShell.xaml" Line="15" Column="1" />
+      <File FileName="Todo/ViewModels/MainViewModel.cs" Line="13" Column="18" />
+      <File FileName="Todo/MainPage.xaml" Line="18" Column="43" />
+      <File FileName="Todo/MauiProgram.cs" />
+      <File FileName="Todo/AppShell.xaml.cs" />
+      <File FileName="Todo/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Todo" expanded="True">
+            <Node name="Todo" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.My_Tester_Pixel_2_API_30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
